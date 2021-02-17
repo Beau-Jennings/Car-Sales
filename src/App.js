@@ -23,6 +23,8 @@ const App = () => {
     ]
   };
 
+  console.log(state);
+  
   return (
     <div className="boxes">
       <div className="box">
